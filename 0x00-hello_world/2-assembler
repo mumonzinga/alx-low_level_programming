@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CMYFILE.s
+gcc -S $CMYFILE

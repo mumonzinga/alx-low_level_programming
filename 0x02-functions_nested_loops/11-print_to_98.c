@@ -2,7 +2,11 @@
 #include "main.h"
 
 /**
- * print_98 - check Holberton
+ * print_to_98 - print n to 98 counts
+ *           separated by comma, followed
+ *           by space and number should be
+ *           printed in order
+ *
  * @n:  A input integer
  * Description: function that prints all natural numbers
  * from n to 98, followed by a new line.

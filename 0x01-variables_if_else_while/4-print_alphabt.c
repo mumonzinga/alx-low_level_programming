@@ -3,9 +3,9 @@
 /**
 *main - Entry point
 *
-*Description: Program to print alphabet letters except q and e followed by new line
+*Description: Program to print alphabets except q and e \n
 *
-*Return: return 0
+* Return: return 0
 */
 int main(void)
 {

@@ -3,9 +3,9 @@
 
 /**
  * _islower - prints 1 or 0 depending on input
- * #c: first parameter
  *
  * Description: prints all lowercase letters
+ *		c - parameter
  *
  * Return: Always(0).
  */

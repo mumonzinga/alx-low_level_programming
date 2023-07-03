@@ -13,7 +13,7 @@
 
 int _islower(int c)
 {
-	// @c - first parameter
+	//@c - first parameter
 	
 	return (c >= 'a' && c <= 'z');
 }

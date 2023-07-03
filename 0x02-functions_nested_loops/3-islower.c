@@ -6,7 +6,7 @@
  * #c: first parameter
  *
  * Description: prints all lowercase letters
- * 
+ *
  * Return: Always(0).
  */
 

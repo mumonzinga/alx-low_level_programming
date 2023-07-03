@@ -5,16 +5,13 @@
  * _islower - prints 1 or 0 depending on input
  *
  * Description: prints all lowercase letters
- *		c - parameter
+ *		#c: checks input of function
  *
- * Return: Always(0).
+ * Return: returns 1 if `c` is lowercase
+ *         otherwise always 0 (Success)
  */
 
 int _islower(int c)
 {
-   	/** 
-	 * c - first parameter
-	 */
-
 	return (c >= 'a' && c <= 'z');
 }

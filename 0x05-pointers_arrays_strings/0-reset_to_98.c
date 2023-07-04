@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- *void reset_to_98 - reset value of an integer to 98
+ *0-reset_to_98 - reset value of an integer to 98
  *@n: integer pointer
  * Return: Always 0.
  */

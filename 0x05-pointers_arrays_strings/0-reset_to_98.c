@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- *_void reset_to_98(int *n) - reset int to n 
+ *_void reset_to_98(int *n) - reset int to n
  *
  * Return: Always 0.
  */

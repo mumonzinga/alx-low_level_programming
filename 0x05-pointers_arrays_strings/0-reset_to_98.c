@@ -1,9 +1,6 @@
-#include "main.h"
-#include <stdio.h>
-
 /**
- * main - check code
- *_void reset_to_98() - reset value of an integer to 98
+ * reset_to_98 - takes a pointer to an int parameter
+ * 		and updates the value it points to 98
  *@n: integer pointer
  * Return: Always 0.
  */

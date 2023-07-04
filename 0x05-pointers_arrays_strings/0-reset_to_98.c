@@ -4,8 +4,8 @@
 /**
  * main - check the code
  *
- *_void reset_to_98(int *n) - reset int to n
- *
+ *@reset_to_98 - reset int to n
+ *@n: integer pointer
  * Return: Always 0.
  */
 

@@ -3,7 +3,7 @@
 
 /**
  * main - check code
- *_reset_to_98 - reset value of an integer to 98
+ *_void reset_to_98() - reset value of an integer to 98
  *@n: integer pointer
  * Return: Always 0.
  */

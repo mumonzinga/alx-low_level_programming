@@ -2,9 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- *0-reset_to_98 - reset value of an integer to 98
+ * main - check code
+ *_reset_to_98 - reset value of an integer to 98
  *@n: integer pointer
  * Return: Always 0.
  */
